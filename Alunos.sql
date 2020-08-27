@@ -40,4 +40,4 @@ select nome, idade from alunos where idade> 18;
 
 select nome, idade from alunos where idade< 18;
 
-select  nome, idade from alunos where idade> 20 and idade<25;
+select  nome, idade from alunos where idade> 20 and idade<25; 
