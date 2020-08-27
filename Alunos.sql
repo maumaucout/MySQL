@@ -1,7 +1,7 @@
 create database db_diversos;
 
 use db_diversos;
-
+-- drop table alunos (excluir tabela)
 create table alunos(
 id bigint auto_increment,
 nome varchar(20) not null,
